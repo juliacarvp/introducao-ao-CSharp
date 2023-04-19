@@ -1,0 +1,8 @@
+C:\Users\EdvanZaramelli\Documents\C#\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\TiposEVariaveis\bin\Debug\TiposEVariaveis.exe.config
+C:\Users\EdvanZaramelli\Documents\C#\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\TiposEVariaveis\bin\Debug\TiposEVariaveis.exe
+C:\Users\EdvanZaramelli\Documents\C#\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\TiposEVariaveis\bin\Debug\TiposEVariaveis.pdb
+C:\Users\EdvanZaramelli\Documents\C#\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\TiposEVariaveis\obj\Debug\TiposEVariaveis.csproj.AssemblyReference.cache
+C:\Users\EdvanZaramelli\Documents\C#\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\TiposEVariaveis\obj\Debug\TiposEVariaveis.csproj.SuggestedBindingRedirects.cache
+C:\Users\EdvanZaramelli\Documents\C#\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\TiposEVariaveis\obj\Debug\TiposEVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\EdvanZaramelli\Documents\C#\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\TiposEVariaveis\obj\Debug\TiposEVariaveis.exe
+C:\Users\EdvanZaramelli\Documents\C#\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\TiposEVariaveis\obj\Debug\TiposEVariaveis.pdb

@@ -1,0 +1,8 @@
+C:\Users\EdvanZaramelli\Documents\C#\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\LacosInterativos\bin\Debug\LacosInterativos.exe.config
+C:\Users\EdvanZaramelli\Documents\C#\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\LacosInterativos\bin\Debug\LacosInterativos.exe
+C:\Users\EdvanZaramelli\Documents\C#\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\LacosInterativos\bin\Debug\LacosInterativos.pdb
+C:\Users\EdvanZaramelli\Documents\C#\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\LacosInterativos\obj\Debug\LacosInterativos.csproj.AssemblyReference.cache
+C:\Users\EdvanZaramelli\Documents\C#\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\LacosInterativos\obj\Debug\LacosInterativos.csproj.SuggestedBindingRedirects.cache
+C:\Users\EdvanZaramelli\Documents\C#\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\LacosInterativos\obj\Debug\LacosInterativos.csproj.CoreCompileInputs.cache
+C:\Users\EdvanZaramelli\Documents\C#\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\LacosInterativos\obj\Debug\LacosInterativos.exe
+C:\Users\EdvanZaramelli\Documents\C#\IntroducaoAoCSharpUmaAbordagemPraticaUdemy\LacosInterativos\obj\Debug\LacosInterativos.pdb
